@@ -377,6 +377,12 @@ case $@ in
 "Sequel Ace")
   icon_result=":sequel_ace:"
   ;;
+"WeChat")
+  icon_result=":wechat:"
+  ;;
+"QQ")
+  icon_result=":messages:"
+  ;;
 *)
   icon_result=":default:"
   ;;
